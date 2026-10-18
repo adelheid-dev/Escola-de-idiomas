@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/conexao/ConexaoBD.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/modelo/Aluno.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/AlunoTela.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/TurmaTela.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/IdiomaTela.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/MatriculaTela.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/AlunoDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/modelo/Turma.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/TurmaDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/IdiomaDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/MatriculaDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/modelo/Idioma.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/modelo/Matricula.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/controller/TurmaController.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/controller/AlunoController.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/controller/MatriculaController.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/controller/IdiomaController.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/RelatorioDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/FinanceiroDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/modelo/Financeiro.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/util/TradutorErroBD.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/ConsultaDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/TransacaoDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/MenuPrincipalTela.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/ConsultasPanel.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/RelatorioPanel.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/visao/TransacaoPanel.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/src/br/escola/dao/RelatorioOcupacaoDAO.java</file>
+            <file>file:/C:/ProjetosJava/EscolaIdiomas/nbproject/build-impl.xml</file>
+        </group>
+    </open-files>
+</project-private>
