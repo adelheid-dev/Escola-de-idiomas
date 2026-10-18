@@ -1,0 +1,13 @@
+# credenciais do banco (nunca versionar)
+conexao.properties
+
+# arquivos gerados pelo NetBeans / Java
+build/
+dist/
+nbproject/private/
+*.class
+*.log
+
+# sistema operacional
+.DS_Store
+Thumbs.db
